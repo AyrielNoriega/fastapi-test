@@ -1,4 +1,0 @@
-.git*
-**/*.pyc
-.venv/
-__pycache__/
